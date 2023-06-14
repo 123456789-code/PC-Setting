@@ -1,15 +1,15 @@
 # PC开局设置指南
 注：请结合自身PC情况与个人习惯操作
 - #### 参考 [电脑应该怎么设置](https://www.bilibili.com/video/BV1CT4y1e7qR) 和 [像操作浏览器那样操作文件资源管理器](https://www.bilibili.com/video/BV15K4y1N7zu)
-- #### 使用习惯：==不要shift+delete==
+- #### 使用习惯：不要shift+delete
 - #### 系统设置
     - 调出此电脑、回收站、控制面板
     - 将下载等文件夹位置移动至D:\Data\
     - 设置微软输入法 导入“微软拼音数学化学符号自定.dat”
     - 设置电源计划
-    - ==家庭版安装组策略编辑器==
+    - 家庭版安装组策略编辑器
 - #### 安装 背景软件
-    - ==Geek Uninstall==
+    - Geek Uninstall
     - 7-zip
     - BandiZip
     - Canon 打印机
@@ -136,7 +136,7 @@
     2. 开启win功能：hyper-V，虚拟机平台
     3. 若安装完打开子系统时报错：未虚拟化或未打开虚拟机平台，则尝试命令
         powershell “bcdedit /set hypervisorlaunchtype auto”
-- ### ==软件应用设置！！==
+- ### 软件应用设置！！
     - 从这里开始 “[安装 计算机 软件夹](#安装-计算机-软件夹)”
     - CE可能存在捆绑，要清除
     - Windhawk 设置
